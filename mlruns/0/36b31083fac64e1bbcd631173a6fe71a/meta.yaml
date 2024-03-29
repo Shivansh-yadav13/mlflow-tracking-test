@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/mlflow-tracking-test/mlruns/0/36b31083fac64e1bbcd631173a6fe71a/artifacts
+end_time: 1711699520366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36b31083fac64e1bbcd631173a6fe71a
+run_name: grandiose-skink-705
+run_uuid: 36b31083fac64e1bbcd631173a6fe71a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711699515890
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/mlflow-tracking-test/mlruns/0/923d6bda57614411b67716e40cda8e06/artifacts
+end_time: 1711699562665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 923d6bda57614411b67716e40cda8e06
+run_name: indecisive-quail-245
+run_uuid: 923d6bda57614411b67716e40cda8e06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711699559230
+status: 3
+tags: []
+user_id: Admin

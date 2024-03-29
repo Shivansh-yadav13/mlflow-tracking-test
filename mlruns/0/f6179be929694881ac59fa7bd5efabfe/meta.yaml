@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/mlflow-tracking-test/mlruns/0/f6179be929694881ac59fa7bd5efabfe/artifacts
+end_time: 1711699579211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6179be929694881ac59fa7bd5efabfe
+run_name: suave-worm-474
+run_uuid: f6179be929694881ac59fa7bd5efabfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711699576095
+status: 3
+tags: []
+user_id: Admin
